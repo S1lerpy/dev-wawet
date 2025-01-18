@@ -1,9 +1,9 @@
 # JAN GABRIEL PERLAS
 
-> IM GOING TO FINIH BSCPE
+ # IM GOING TO FINIH BSCPE
 
 **STEPS**
-1. MAKE THE PROJECT AS LOCAL REPO  "git init"
+# 1. MAKE THE PROJECT AS LOCAL REPO  "git init"
 ```bash
 git it
 git config --global user.name "S1lerpy"
@@ -34,7 +34,7 @@ git branch -M main
 git remote add origin <link>
 git push -u origin main
 ```
-## delete currently logged account
+## Delete currently logged account
 ```bash
 git credential-cache exit
 ```
@@ -42,7 +42,7 @@ git credential-cache exit
  
 3. CONNECT BOTH REPO SO THEY ARE IN SYNC
 
-# PUSH OR UPLOAD OUR CHANGES
+## PUSH OR UPLOAD OUR CHANGES
 ```bash
 git push -u origin push
 ```
