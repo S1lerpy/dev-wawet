@@ -1,0 +1,22 @@
+# JAN GABRIEL PERLAS
+
+> IM GOING TO FINIH BSCPE
+
+**STEPS**
+1. MAKE THE PROJECT AS LOCAL REPO  "git init"
+```bash
+git it
+git config --global user.name "S1lerpy"
+git config --global user.email "jangabriel.perlas@lorma.edu"
+
+git remote add origin https://github.com/johnverz22/my-portfolio.git
+````
+
+## Prepare changes to be saved locally
+```bash
+git add .
+````
+
+2. CREATE  A REMOTE REPO IN GITHUB 
+3. CONNECT BOTH REPO SO THEY ARE IN SYNC
+
